@@ -22,4 +22,4 @@ The dataset reveals that a small handful of microbial species (also called opera
 
 # Resources
 
-Materials that helped me complete this challenge are in-class activities, further reading and helpful links that was provided in module 14. I also used xpert learning assistant, plotly,  and d3 library.
+Materials that helped me complete this challenge are in-class activities, further reading and helpful links that was provided in module 14. I also used xpert learning assistant, plotly, d3 library and belly-button-biodiversity-NC State University.
