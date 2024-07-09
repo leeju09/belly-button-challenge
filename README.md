@@ -4,7 +4,7 @@ In this assignment, I will build an interactive dashboard to explore the Belly B
 
 The dataset reveals that a small handful of microbial species (also called operational taxonomic units, or OTUs, in the study) were present in more than 70% of people, while the rest were relatively rare.
 
-* Skills Demonstrated
+# Skills Demonstrated
 
 - Describe JavaScript variables, arrays, data types, and statements.
 
@@ -20,6 +20,6 @@ The dataset reveals that a small handful of microbial species (also called opera
 
 - Annotate charts with labels, text, and hover text.
 
-*Resources
+# Resources
 
 Materials that helped me complete this challenge are in-class activities, further reading and helpful links that was provided in module 14. I also used xpert learning assistant, plotly,  and d3 library.
