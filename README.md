@@ -20,6 +20,10 @@ The dataset reveals that a small handful of microbial species (also called opera
 
 - Annotate charts with labels, text, and hover text.
 
+# To view the completed challenge
+
+- Look to the deployments on my GitHub to see the completed  challenge.
+
 # Resources
 
 Materials that helped me complete this challenge are in-class activities, further reading and helpful links that was provided in module 14. I also used xpert learning assistant, plotly, d3 library and belly-button-biodiversity-NC State University.
